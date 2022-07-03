@@ -1,3 +1,3 @@
 # techinal-documentation
 
-https://techinal-documentation-nigraum.vercel.app/
+https://technical-documentation-nigraum.vercel.app/
